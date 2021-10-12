@@ -6,8 +6,8 @@ body {
     
     
     font-family: 'Poppins', sans-serif;
-    background-color: lightgray;
-    
+    background-color: white;
+    color: black;
   }
   
 .container{
@@ -15,8 +15,8 @@ body {
    
 }
 .dark-mode {
-    background-color: rgb(153, 149, 149);
-    color: black;
+     background-color: black;
+  color: darkslategrey;
   }
 .flag{
     width:24rem;
