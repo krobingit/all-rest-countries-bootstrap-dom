@@ -69,10 +69,18 @@ body {
     }
 .flagcontainer{
     margin-top: 50px;
+    overflow: hidden;
     
 }
 .btntext{
-    font-size:2rem;
+    font-size:1.5rem;
     font-weight:bold;
-  
+    
 }
+#btndiv{
+    background: black;
+    max-width:150px;
+    border-radius: 5px;
+    text-align: center;
+}
+
