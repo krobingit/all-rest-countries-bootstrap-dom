@@ -44,7 +44,7 @@ function dark() {
 document.body.innerHTML = `<div class="container">
                                <div class="row" id="flagndetails">
                                      <div class="col-12 col-md-8 col-sm-6">
-                                        <h1>Where in the world?</h1>
+                                        <h1 id="where">Where in the world?</h1>
                                     </div>
                                      <div class="col-12 col-md-4 col-sm-6" id="btndiv">
                                          <button class=" btn" onclick="dark()" ><span class="btntext">Dark Mode</span></button>
