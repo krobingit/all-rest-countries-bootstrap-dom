@@ -26,6 +26,10 @@ body {
     border-bottom-left-radius: 0;
     
 }
+
+#where{
+    font-weight:700;
+}
 .details{
    
     background-color: #eee8aa;
